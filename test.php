@@ -1,7 +1,7 @@
 <?php
     function test(){
-        $a="we";
-        $b="ss";
+        $a="qwe";
+        $b="2333";
         $c="sd";
     }
 
