@@ -6,6 +6,7 @@
     }
 
     function merge(){
-        $aa="aaa";
+        $df="asdfg";
+        $aa="1123";
         $bb="sss";
     }
